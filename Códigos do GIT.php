@@ -12,7 +12,7 @@ git commit -n ok (se for mais de uma palavra, colocar entre aspas duplas - serve
 Pra evitar conflitos, faça primeiro um 
 
 git pull origin master e depois um push
-
+DDD
 */
 
 ?>
