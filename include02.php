@@ -15,6 +15,6 @@ echo $resultado;
 //Require: obriga que o arquivo exista e que o arquivo esteja funcionando corretamente;
 //Include tenta funcionar mesmo que não exista o arquivo ou que ele não esteja funcionando;
 
-
+//USAR SEMPRE REQUIRE_ONCE para evitar chamar duas vezes o arquivo: require_once
 
 ?>
