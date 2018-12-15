@@ -1,14 +1,10 @@
 <?php
 
-echo "<select>";
-
-for($i=date("Y"); $i > date("Y")-100; $i--){
+for($i=0; $i<10; $i-- ){
 	
-	echo $i . "<br>";
-	echo '<option value = " ">'.$i.'</option>'	;
-	
-	
+	//echo $i." ";
 };
-echo "</select>";
+
+
 ?>
 
